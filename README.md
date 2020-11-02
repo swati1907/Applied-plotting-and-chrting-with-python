@@ -1,1 +1,1 @@
-# Applied-plotting-and-chrting-with-python
+# Applied-plotting-and-charting-with-python
